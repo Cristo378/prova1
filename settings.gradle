@@ -1,0 +1,2 @@
+RootProject.name = 'appspring'
+include('appspring')
